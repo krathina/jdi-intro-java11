@@ -1,0 +1,45 @@
+[17:00:59  INFO] Run Tests
+[17:00:59  STEP] Open 'Home Page'(url=https://jdi-testing.github.io/jdi-light/index.html) (Home Page)
+[17:01:00  INFO] Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+[17:01:00  INFO] Exporting webdriver.chrome.driver as /Users/krathinam/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+[17:01:00  INFO] Download driver: 'CHROME X64' successfully
+[17:01:00  INFO] Use driver path: /Users/krathinam/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+[17:01:00  INFO] Failed to set Default Capabilities for Driver:
+[17:01:00  INFO] Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+Chrome: PageLoadStrategy:normal: org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(Lorg/openqa/selenium/PageLoadStrategy;)Lorg/openqa/selenium/chrome/ChromeOptions;
+Chrome: setExperimentalOption: prefs: org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(Ljava/lang/String;Ljava/lang/Object;)Lorg/openqa/selenium/chrome/ChromeOptions;
+[17:01:06  INFO] Page 'Home Page' opened
+[17:01:06  STEP] Click on 'User Icon' (HomePage.userIcon (css='img#user-icon'))
+[17:01:06  STEP] Login as User(userName:Roman; password:Jdi1234) (HomePage.loginForm (css='form'))
+[17:01:07  STEP] Check that 'Home Page' is opened (url CONTAINS '/index.html'; title EQUALS 'Home Page') (Home Page)
+[17:01:07  STEP] Click on 'Logout' (HomePage.logout (css='.fa-sign-out'))
+[17:01:34  INFO] Run Tests
+[17:01:34  STEP] Open 'Home Page'(url=https://jdi-testing.github.io/jdi-light/index.html) (Home Page)
+[17:01:35  INFO] Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+[17:01:35  INFO] Exporting webdriver.chrome.driver as /Users/krathinam/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+[17:01:35  INFO] Download driver: 'CHROME X64' successfully
+[17:01:35  INFO] Use driver path: /Users/krathinam/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+[17:01:35  INFO] Failed to set Default Capabilities for Driver:
+[17:01:35  INFO] Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+Chrome: PageLoadStrategy:normal: org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(Lorg/openqa/selenium/PageLoadStrategy;)Lorg/openqa/selenium/chrome/ChromeOptions;
+Chrome: setExperimentalOption: prefs: org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(Ljava/lang/String;Ljava/lang/Object;)Lorg/openqa/selenium/chrome/ChromeOptions;
+[17:01:41  INFO] Page 'Home Page' opened
+[17:01:41  STEP] Click on 'User Icon' (HomePage.userIcon (css='img#user-icon'))
+[17:01:41  STEP] Login as User(userName:Roman; password:Jdi1234) (HomePage.loginForm (css='form'))
+[17:01:42  STEP] Check that 'Home Page' is opened (url CONTAINS '/index.html'; title EQUALS 'Home Page') (Home Page)
+[17:01:42  STEP] Click on 'Logout' (HomePage.logout (css='.fa-sign-out'))
+[17:02:45  INFO] Run Tests
+[17:02:45  STEP] Open 'Home Page'(url=https://jdi-testing.github.io/jdi-light/index.html) (Home Page)
+[17:02:46  INFO] Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+[17:02:46  INFO] Exporting webdriver.chrome.driver as /Users/krathinam/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+[17:02:46  INFO] Download driver: 'CHROME X64' successfully
+[17:02:46  INFO] Use driver path: /Users/krathinam/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+[17:02:46  INFO] Failed to set Default Capabilities for Driver:
+[17:02:46  INFO] Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+Chrome: PageLoadStrategy:normal: org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(Lorg/openqa/selenium/PageLoadStrategy;)Lorg/openqa/selenium/chrome/ChromeOptions;
+Chrome: setExperimentalOption: prefs: org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(Ljava/lang/String;Ljava/lang/Object;)Lorg/openqa/selenium/chrome/ChromeOptions;
+[17:02:51  INFO] Page 'Home Page' opened
+[17:02:51  STEP] Click on 'User Icon' (HomePage.userIcon (css='img#user-icon'))
+[17:02:51  STEP] Login as User(userName:Roman; password:Jdi1234) (HomePage.loginForm (css='form'))
+[17:02:52  STEP] Check that 'Home Page' is opened (url CONTAINS '/index.html'; title EQUALS 'Home Page') (Home Page)
+[17:02:52  STEP] Click on 'Logout' (HomePage.logout (css='.fa-sign-out'))
